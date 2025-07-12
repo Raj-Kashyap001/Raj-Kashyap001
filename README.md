@@ -7,7 +7,7 @@
 </p>
 
 
-<img align='right' width='280px' src="https://drive.google.com/uc?export=view&id=11Hxn1QvoXYpVm9Vry6T0d3AX0NvmKU3_">
+<img align='right' width='280px' src="https://drive.google.com/uc?export=view&id=1BVKSKGUdf5RrJMl--C0LrMpr4RNZRA5N">
 
 - 💻  I'm a freelance full stack developer.
 - 📝  Still learning new things.
