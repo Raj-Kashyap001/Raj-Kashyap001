@@ -1,39 +1,42 @@
-<h1 >Hi 👋, I'm Raj Kashyap</h1>
-<h3>I Love writing code. </h3>
+<h1>Hi 👋, I'm Raj Kashyap</h1>
+<h3>I love writing code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-kashyap001&label=Profile%20views&color=0e75b6&style=flat" alt="raj-kashyap001" />
-<img src='https://img.shields.io/github/stars/raj-kashyap001?label=Stars&logo=[VALID_LOGO]&style=[STYLE]'/>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=raj-kashyap001&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/stars/raj-kashyap001?label=Stars&style=flat" alt="GitHub stars"/>
 </p>
 
+---
 
+- 💻 Freelance Software  Developer  
+- 📝 Constantly learning and improving  
+- 📫 Reach me at **rajkashyapeatservice@outlook.com**
 
-- 💻  I'm a freelance full stack developer.
-- 📝  Still learning new things.
-- 📫  How to reach me **rajkashyapeatservice@outlook.com**
+<h3>🌐 Find Me Online</h3>
 
-<h3 align="left">🌐 Find Me Online</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/raj-kashyap-041971279" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/fullstack_dev_raj" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@raj-kashyap-developer" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="40" alt="YouTube"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/mr_raj_kashayap_62" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram"/>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/raj-kashyap-041971279" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2?style=flat&logoColor=white" alt="LinkedIn" width="48" height="48"/>
-</a>
+---
 
-  <a href="https://discord.com/users/fullstack_dev_raj" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/discord/5865F2?style=flat&logoColor=white" alt="Discord" width="48" height="48"/>
-</a>
+<h3>📊 GitHub Stats</h3>
 
-
-<a href="https://www.youtube.com/@raj-kashyap-developer" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/youtube/FF0000?style=flat&logoColor=white" alt="YouTube" width="48" height="48"/>
-</a>
-
-<a href="https://www.instagram.com/mr_raj_kashayap_62" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F?style=flat&logoColor=white" alt="Instagram" width="48" height="48"/>
-</a>
-
-
-
-<hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj-kashyap001&show_icons=true&locale=en&layout=donut&theme=radical" alt="raj-kashyap001" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj-kashyap001&show_icons=true&locale=en&theme=radical" alt="raj-kashyap001" /></p>
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raj-kashyap001&layout=donut&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raj-kashyap001&show_icons=true&theme=radical" height="180"/>
+</p>
