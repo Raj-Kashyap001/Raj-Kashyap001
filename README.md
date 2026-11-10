@@ -1,3 +1,2 @@
-# Raj Kashyap - Somewhat  programmer
-
-I am currently jobless...
+# Raj Kashyap - Somewhat programmer
+Will Take A.I's Job Someday?
